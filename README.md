@@ -1,2 +1,1 @@
-# AncestryBrowsableSchema
-A scraper to loop and get the schema of ancestry reporsitories
+This is a chrome extension to parse and log the schema of a set of hierarchical drop down menus on an ancestry page representing the breakdown of the Census data regions
